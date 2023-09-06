@@ -158,7 +158,7 @@ import Spinner from "@/components/spinner";
         type="button"
         onClick={deleteSelectedImage}
       >
-        Supprimer l'image
+        Delete image
       </button>
     </div>
   )}
