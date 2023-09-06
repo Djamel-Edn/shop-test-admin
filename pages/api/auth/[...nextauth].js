@@ -21,7 +21,7 @@ export const authOpt= {
       }
     })
   ],
-  secret: "VotreCléSecrèteIci",
+  secret: "harrad 1584",
   adapter:MongoDBAdapter(clientPromise),
   callbacks: {
     session: ({session,token,user}) => {
